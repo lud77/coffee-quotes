@@ -1,0 +1,35 @@
+%
+You need some coffee, don't you?
+Yes, I've only had a gallon.
+-- John Grisham, The Confession
+%
+What goes best with a cup of coffee? Another cup.      
+-- Henry Rollins
+%
+Even bad coffee is better than no coffee at all.
+-- David Lynch
+%
+I never laugh until I've had my coffee
+-- Clark Gable
+%
+Whoever had opened that first Starbucks in Seattle should be shot.
+-- Virna DePaul
+%
+Up to 1000mg of caffeine is considered safe for most people, which translates into about 10 cups of coffee a day.
+-- Michael Greger
+%
+People who drink coffee have a lower risk of five types of cancers. It also protects against cirrhosis, Parkinson's, cognitive decline, Type II diabetes.
+-- Sanjiv Chopra, Harvard Medical School
+%
+I never drink coffee at lunch. I find it keeps me awake for the afternoon. 
+-- Ronald Reagan
+%
+Without my morning coffee I’m just like a dried up piece of roast goat.
+-- Johann Sebastian Bach
+%
+I would rather suffer with coffee than be senseless.
+-- Napoleone Bonaparte
+%
+Coffee is a language in itself.
+-- Jackie Chan
+%
