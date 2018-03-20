@@ -9,7 +9,7 @@ What goes best with a cup of coffee? Another cup.
 Even bad coffee is better than no coffee at all.
 -- David Lynch
 %
-I never laugh until I've had my coffee
+I never laugh until I've had my coffee.
 -- Clark Gable
 %
 Whoever had opened that first Starbucks in Seattle should be shot.
