@@ -1,4 +1,4 @@
 #!/bin/bash
 
-strfile coffee
-strfile techies
+strfile fortunes/coffee
+strfile fortunes/techies
