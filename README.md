@@ -1,2 +1,2 @@
-# coffee-quotes
-A database of coffee-related quotes for the Linux "fortune" program
+# quotes
+A database of quotes I like for the Linux "fortune" program
