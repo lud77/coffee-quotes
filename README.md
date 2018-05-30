@@ -9,4 +9,5 @@ The repo contains various sets of quotes
 ## build and deploy
 
 Run `./build.sh` to recreate the .dat files
+
 Run `sudo ./update.sh` to update the fortune database (you'll need to have `fortune` installed)
