@@ -1,5 +1,5 @@
 # quotes
-A database of quotes I like for the Linux "fortune" program
+A database of quotes I like (for the Linux "fortune" program)
 
 The repo contains various sets of quotes
 - quotes about coffee from famous people
